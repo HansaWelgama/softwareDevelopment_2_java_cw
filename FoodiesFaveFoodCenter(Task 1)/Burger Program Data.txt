@@ -1,0 +1,3 @@
+Cashiers        Names
+cashier_01:     a
+Available stock: 45

@@ -1,0 +1,27 @@
+Cashier 1
+4 4
+4 4
+Cashier 2
+2 2
+2 2
+2 2
+Cashier 3
+3 3
+3 3
+3 3
+3 3
+3 3
+Waiting List
+4 4
+Queue Income
+Queue 1 Income: LKR1300
+Queue 2 Income: LKR3900
+Queue 3 Income: LKR9750
+Available Stock: 27
+Number of Burgers Served Cashier 1: 2
+Number of Burgers Served Cashier 2: 6
+Number of Burgers Served Cashier 3: 15
+Queue Income
+Queue 1 Income: LKR1300
+Queue 2 Income: LKR3900
+Queue 3 Income: LKR9750
